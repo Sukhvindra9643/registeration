@@ -48,9 +48,9 @@
   }
   
   
-  @media (width <= 550px){
+  @media (width <= 850px){
     .banner > a > button {
-      width: 90px;
+      width: 100%;
     }
   }
   
